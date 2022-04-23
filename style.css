@@ -1,0 +1,26 @@
+.form{
+    background-color:lightblue;
+    width: 840px;
+    color: black;
+    padding:15px;
+}
+.input{
+    border-radius: 14px 0px 14px 0px;
+    padding: 5px;
+    border-style: none;
+    outline: none;
+    margin-top: 5px;
+}
+.textarea{
+    border-radius: 14px 0px 14px 0px;
+    padding: 5px;
+    border-style: none;
+    outline: none;
+    resize: none;
+}
+.submit{
+    border-radius: 14px 0px 14px 0px;
+    padding: 5px;
+    background-color: black;
+    color: lightblue;
+}
